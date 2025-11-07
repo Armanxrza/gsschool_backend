@@ -1,0 +1,20 @@
+{
+  "facilities": [
+    {
+      "id": "8x0ninp",
+      "title": "Hostel",
+      "description": "Clean And Productive",
+      "icon": "",
+      "image": "/uploads/1762413889955-748302883.jpg",
+      "features": [
+        "Hello World"
+      ]
+    }
+  ],
+  "header": {
+    "title": "Facilities",
+    "subtitle": ""
+  },
+  "content": "",
+  "images": []
+}

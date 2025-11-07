@@ -1,0 +1,26 @@
+{
+  "teachers": [
+    {
+      "id": "hlr5yam",
+      "name": "Aashish Chhetri",
+      "position": "Teacher",
+      "department": "Computer Science",
+      "qualification": "BCA",
+      "experience": "5 yrs.",
+      "specialization": "IT Technician",
+      "contact": "9876543210",
+      "image": "/uploads/1762413856315-930814881.JPG"
+    }
+  ],
+  "stats": {
+    "totalFaculty": 1,
+    "avgExperience": "8 Years",
+    "departments": 5
+  },
+  "header": {
+    "title": "Faculty",
+    "subtitle": ""
+  },
+  "content": "",
+  "images": []
+}

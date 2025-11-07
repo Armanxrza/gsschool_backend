@@ -1,0 +1,48 @@
+{
+  "about": {
+    "title": "Gaurishankar College",
+    "description": "Nurturing minds, shaping futures. Excellence in education since our establishment, providing quality learning experiences in Science, Management, and Law.",
+    "under": "Under the Management of Hillside College Of Engineering",
+    "logo": "/logo.png"
+  },
+  "quickLinks": [
+    {
+      "name": "About Us",
+      "path": "/about"
+    },
+    {
+      "name": "Gallery",
+      "path": "/gallery"
+    },
+    {
+      "name": "Download Booklet",
+      "path": "/faculty"
+    },
+    {
+      "name": "Download Calender",
+      "path": "/admissions"
+    },
+    {
+      "name": "Download Brochure",
+      "path": "/contact"
+    }
+  ],
+  "contact": {
+    "address": [
+      "Mahalaxmi-2, Imadol, Balkumari",
+      "Lalitpur, Nepal"
+    ],
+    "phone": "01-5203132",
+    "email": "schoolgaurishankar@gmail.com"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100063762841241",
+    "instagram": "#",
+    "youtube": "#"
+  },
+  "legal": {
+    "copyright": "© 2025 Gaurishankar English Boarding Secondary School/College. All rights reserved. Madani Technology Pvt. Ltd.",
+    "privacy": "#",
+    "terms": "#"
+  }
+}

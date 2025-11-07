@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "About Us",
+    "subtitle": "Discover our journey of educational excellence, values that guide us, and the vision that drives us forward Trial"
+  },
+  "values": [
+    {
+      "title": "Checking CMS",
+      "description": "This is For checking purpose only"
+    },
+    {
+      "title": "Checking CMS 2",
+      "description": "This is for checking purpose only"
+    },
+    {
+      "title": "Checking cms 3",
+      "description": "This is for checking purpose only"
+    }
+  ],
+  "objectives": [
+    "This is for checking purpose only",
+    "This is for checking purpose only",
+    "This is for checking purpose only",
+    "This is for checking purpose only"
+  ],
+  "timeline": [
+    {
+      "year": "2064",
+      "title": "Arman Reza's Born",
+      "description": "Hero Entered the World"
+    },
+    {
+      "year": "2072",
+      "title": "Earthquake",
+      "description": "Dharhara Fell"
+    }
+  ]
+}

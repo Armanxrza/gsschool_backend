@@ -1,0 +1,55 @@
+{
+  "streams": {
+    "science": {
+      "title": "Science Stream Trial",
+      "grades": "Grade 11 & 12 Trial",
+      "requiredGPA": "2.0 or above",
+      "description": "This is for checking purpose only",
+      "subjects": [
+        "English",
+        "Math",
+        "Science",
+        "Physics"
+      ],
+      "careers": [
+        "Doctor",
+        "Engineer",
+        "IT Technician",
+        "Director"
+      ],
+      "color": "from-blue-500 to-blue-600"
+    },
+    "management": {
+      "title": "Management Stream  trial",
+      "grades": "Grade 11 & 12 trial",
+      "requiredGPA": "2.5 or above trial",
+      "description": "",
+      "subjects": [
+        "Commerce"
+      ],
+      "careers": [
+        "CEO"
+      ],
+      "color": "from-green-500 to-green-600"
+    },
+    "law": {
+      "title": "Law Stream trial",
+      "grades": "Grade 11 & 12 trial",
+      "requiredGPA": "3.2 or above trail",
+      "description": "This is for checking purpose only",
+      "subjects": [
+        "Law"
+      ],
+      "careers": [
+        "Adhiwakta"
+      ],
+      "color": "from-purple-500 to-purple-600"
+    }
+  },
+  "header": {
+    "title": "Courses",
+    "subtitle": ""
+  },
+  "content": "",
+  "images": []
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1762334179017",
+    "title": "Dashain Tihar Vacation Notice",
+    "content": "This is to notify all Student Regarding Vacation : Check out Notice.",
+    "level": "info",
+    "image": "/uploads/1762334177272-864989122.jpg",
+    "createdAt": "2025-11-05T09:16:19.017Z",
+    "expiresAt": null
+  },
+  {
+    "id": "1762156674694",
+    "title": "Event Notice",
+    "content": "This is to notify all student to participate in certain event bla bla bla.",
+    "level": "info",
+    "createdAt": "2025-11-03T07:57:54.694Z",
+    "expiresAt": "2025/11/03"
+  }
+]

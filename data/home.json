@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "backgroundImage": "/uploads/1762410629415-865719920.png",
+    "titleLine1": "Gaurishankar English Boarding",
+    "titleLine2": "Secondary School",
+    "tagline": "Nurturing Excellence• Inspiring Innovation • Building Character"
+  },
+  "leadership": [
+    {
+      "name": "Chairman's Message",
+      "title": "Janardan Sharma",
+      "message": "I urge all potential students... Wish you all have a wonderful experience in Gaurishankar.",
+      "image": "/uploads/1762410607782-109113919.jpg"
+    },
+    {
+      "name": "Director's Message ",
+      "title": "Dhaneshwor Sah",
+      "message": "We embrace modern teaching methodologies...",
+      "image": "/Dhaneshwor.jpg"
+    },
+    {
+      "name": "Principal's Message",
+      "title": "Mahesh Thapa",
+      "message": "We prioritize your success and well-being...",
+      "image": "/mahesh.jpg"
+    }
+  ]
+}
